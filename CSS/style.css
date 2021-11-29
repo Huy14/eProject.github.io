@@ -5,7 +5,7 @@
 }
 
 .header {
-    background-image: url("D:/FPT APTECH/HTML CSS JS/Project/Web Luyen tap/BootStrap/Img/winter-covid-friendly-activity-ideas.png");
+    background-image: url('../Img/Header.png');
     background-size: cover;
     height: 100vh;
     background-position: center;
@@ -69,7 +69,7 @@
 
 /*(----------Picnic-Info---------)*/
     .info-1 {
-    background-image: url("D:/FPT APTECH/HTML CSS JS/Project/Web Luyen tap/BootStrap/Img/amusement-park-2.jpg");
+    background-image: url('../Img/Indoor.jpg');
     background-size: cover;
     height: 100vh;
     background-position: center;
@@ -78,7 +78,7 @@
     }
 
     .info-2 {
-        background-image: url("D:/FPT APTECH/HTML CSS JS/Project/Web Luyen tap/BootStrap/Img/picnic-minivans.jpg");
+        background-image: url('../Img/Outdoor.jpg');
         background-size: cover;
         height: 100vh;
         background-repeat: no-repeat;
