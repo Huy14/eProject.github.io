@@ -68,32 +68,7 @@
 /*(----------Navbar-CSS-END--------)*/
 
 /*(----------Picnic-Info---------)*/
-    .info-1 {
-    background-image: url("D:/FPT APTECH/HTML CSS JS/Project/Web Luyen tap/eProject/img/Indoor.jpg");
-    background-size: cover;
-    height: 100vh;
-    background-position: center;
-    display: block;
-    border-bottom: thick solid white;
-    }
-
-    .info-2 {
-        background-image: url("D:/FPT APTECH/HTML CSS JS/Project/Web Luyen tap/eProject/img/Outdoor.jpg");
-        background-size: cover;
-        height: 100vh;
-        background-repeat: no-repeat;
-        background-position: center;
-        display: block;
-    }
-
-    #picnic-info-1{
-        background-color: rgba(0,0,0,0.7) !important;
-        color: whitesmoke;
-    }
-
-    #picnic-info-2{
-        color: whitesmoke;
-    }
+    
     
 /*(----------Picnic-Info-End--------)*/
 
