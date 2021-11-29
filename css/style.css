@@ -5,7 +5,7 @@
 }
 
 .header {
-    background-image: url("https://huy14.github.io/eProject.github.io/img/Header.png");
+    background-image: url("D:/FPT APTECH/HTML CSS JS/Project/Web Luyen tap/eProject/img/Header.png");
     background-size: cover;
     height: 100vh;
     background-position: center;
@@ -68,7 +68,32 @@
 /*(----------Navbar-CSS-END--------)*/
 
 /*(----------Picnic-Info---------)*/
-    
+.info-1 {
+    background-image: url("D:/FPT APTECH/HTML CSS JS/Project/Web Luyen tap/eProject/img/Indoor.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    display: block;
+    border: thin solid white;
+}
+
+#picnic-info-1{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: whitesmoke;
+}
+
+
+.info-2 {
+    background-image: url("D:/FPT APTECH/HTML CSS JS/Project/Web Luyen tap/eProject/img/Outdoor.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    display: block;
+}
+
+#picnic-info-2{
+    color: whitesmoke;
+}
     
 /*(----------Picnic-Info-End--------)*/
 
