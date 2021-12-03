@@ -28,11 +28,6 @@ video{
 
 .navbar {
     background-color: rgba(0, 0, 0, 0.5) !important;
-    transition: 0.7s ease;
-}
-
-.navbar.scrolled {
-    background:black !important;
 }
 
 .img {
