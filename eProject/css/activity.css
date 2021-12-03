@@ -16,12 +16,12 @@
     position: relative;
 }
 
-video{
+iframe{
     width: 100%;
 }
 
 @media only screen and (max-width: 600px) {
-    video {
+    iframe {
     width: 100%;
     margin-top: 1rem;
 }
