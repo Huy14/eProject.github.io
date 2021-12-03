@@ -13,6 +13,7 @@
     display: block;
     background-color: rgba(255,255,255,0.3);
     background-blend-mode: lighten;
+    position: relative;
 }
 
 video{
@@ -28,6 +29,10 @@ video{
 
 .navbar {
     background-color: rgba(0, 0, 0, 0.5) !important;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
 }
 
 .img {
