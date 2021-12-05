@@ -67,6 +67,17 @@
 
 /*(----------Navbar-CSS-END--------)*/
 
+/*----------Feature----------------*/
+.feature {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+}
+/*----------Feature----------------*/
+
 /*(----------Picnic-Info---------)*/
 .info-1 {
     background-image: url("../../eProject/img/Indoor.jpg");
@@ -114,11 +125,6 @@
 
 
 /*Creator Css */
-#creators-info {
-    background: linear-gradient(to bottom, transparent 0%, black 100%);
-    position: relative;
-}
-
 .single_advisor_profile {
     position: relative;
     margin-bottom: 50px;
