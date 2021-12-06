@@ -1,7 +1,9 @@
  /*(----------Navbar-CSS---------)*/
  * {
+    margin: 0;
+    padding: 0;
     font-size: 20px;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .header {
@@ -24,6 +26,15 @@
 
 .img {
     margin-right: 1rem;
+}
+
+.lead{
+    font-style: italic;
+}
+
+.img:hover{
+    transform: rotate(-5deg);
+    transition: linear 0.4s;
 }
 
 @media only screen and (min-width: 1000px) {
@@ -69,6 +80,7 @@
 
 /*----------Feature----------------*/
 .feature {
+    background-color: green;
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -80,7 +92,7 @@
 
 /*(----------Picnic-Info---------)*/
 .info-1 {
-    background-image: url("../../eProject/img/Indoor.jpg");
+    background-image: url("../../eProject/img/Indoor-dinner.jpg");
     background-size: cover;
     height: 100vh;
     background-position: center;
